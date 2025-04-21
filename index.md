@@ -5,3 +5,5 @@
 ##### h5 header
 ###### h6 header
 I have figured out how to use headers
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
